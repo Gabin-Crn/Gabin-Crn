@@ -15,7 +15,7 @@ Junior Cybersecurity Engineer focused on embedded systems security ✈️ 🚗 �
   <img align="left" src="assets/python.svg" alt="python" height="30px"/>
 </a>
 <a href="https://www.vmware.com/">
-  <img align="left" src="assets/vmware.svg" alt="vmware" height="30px"/>
+  <img align="left" src="assets/vmware.svg" alt="vmware" height="42px"/>
 </a>
 
 <br>
