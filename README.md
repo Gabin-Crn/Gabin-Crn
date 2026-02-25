@@ -1,7 +1,21 @@
-# Hi, I'm Gabin 👋
+# Hi, Gabin Cornaire 👋 
 
-Cybersecurity Engineer (recent graduate) focused on **embedded security**, **Linux hardening**, and **security automation**.  
-I build hands-on projects around **Python/Bash**, **PKI/TLS/OpenSSL**, **SIEM**, and **network security labs**.
+Junior Cybersecurity Engineer focused on embedded systems security ✈️ 🚗 🚀
 
-📍 Based in Australia (currently) | 🇫🇷 French  
-🔗 LinkedIn: [your-linkedin] • GitHub: [your-github] • Portfolio: [your-portfolio]
+- 🔐 Embedded security / hardening
+- 🐧 Linux, Python, Bash
+- 🌐 Network security labs
+- 📍 Currently in Australia
+
+### 🔨 Languages and Tools:
+<a href="https://www.gnu.org/software/bash/">
+  <img align="left" src="assets/bash.svg" alt="bash" height="42px"/>
+</a>
+<a href="https://www.python.org/">
+  <img align="left" src="assets/python.svg" alt="python" height="42px"/>
+</a>
+
+<br>
+
+### 🔗 Contact
+[LinkedIn](https://www.linkedin.com/in/gabin-c-674522227/) • [GitHub](https://github.com/your-username) • [Portfolio](https://your-portfolio.com)
