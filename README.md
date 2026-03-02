@@ -3,7 +3,7 @@
 Junior Cybersecurity Engineer focused on embedded systems security ✈️ 🚗 🚀
 
 - 🔐 Embedded security / hardening Linux / ...
-- 🐧 Currently, I'm learning Trusted Zone - PKI in depth
+- 🐧 Currently, I'm learning Rollback downgrade & PKI in depth
 - 📚 Feel free to explore my portfolio, I'm gradually implementing all I've done [Portfolio](https://gabincrn.fr/)
 - 📍 Eager to take on every challenge -> [Email](gabincornaire@outlook.fr) 
 
