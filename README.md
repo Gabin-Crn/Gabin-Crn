@@ -1,6 +1,6 @@
 # Hi, Gabin Cornaire 👋 
 
-Junior Cybersecurity Engineer focused on embedded systems security ✈️ 🚗 🚀
+Cybersecurity Engineer ✈️ 🚗 🚀
 
 - 🔐 Embedded security / hardening Linux / ...
 - 🐧 Currently, I'm learning Rollback downgrade & PKI in depth
